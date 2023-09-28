@@ -19,7 +19,7 @@ const Pagination = ({ pageNumber, info, updatePageNumber: onPageChange }) => {
     <>
       <style jsx>
         {`
-          /* Custom styles for pagination */
+    
           .pagination {
             display: flex;
             justify-content: center;
